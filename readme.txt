@@ -12,4 +12,7 @@ hello
 int dev issue-101 fixed
 =======
 int dev
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
