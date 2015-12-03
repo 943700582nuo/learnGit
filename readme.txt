@@ -8,4 +8,7 @@ creating a new brance is quick AND simple
 =======
 hello
 >>>>>>> dafdd35a62a6267e0ecc3ae4bd2ef86e87040442
-int dev issue-101 fixed
+<<<<<<< HEAD
+int dev
+=======
+>>>>>>> 07191cb73abf5033e44f5c0b2a43f7113ae1457b
